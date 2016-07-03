@@ -1,0 +1,14 @@
+{
+  "author": "Miles Whittaker",
+  "description": "Reads in bookmarks from https://www.google.com/bookmarks",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "keywords": ["bookmarks", "google"],
+  "license": "GPLv3",
+  "main": "background.js",
+  "name": "oh-my-googlebookmarks",
+  "title": "omGBookmarks",
+  "version": "1.0.4"
+}
