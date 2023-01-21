@@ -1,3 +1,9 @@
+# omGBookmarks
+
+<a href="https://www.buymeacoffee.com/mjwhitta">🍪 Buy me a cookie</a>
+
+**Note:** This tool has been deprecated in favor of Raindrop.io.
+
 ## What is this?
 
 This is a simple project that would allow me to keep my bookmarks in a
